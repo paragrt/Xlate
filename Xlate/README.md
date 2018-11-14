@@ -5,4 +5,4 @@ This program has the following capabilities
 2. Translate that spoken and decoded TEXT to another lanaguage
 3. Speak that language.
 
-<img src="Translate.png"/>
+<img src="TranslateApp.png"/>
