@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"><b>PolyGlot</b></string>
+    <string name="app_package">com.objectsolutions.polyglot</string>
+    <string name="hello_world">Speech Xlator</string>
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="country_arrays">
+        <item>Telgu</item>
+        <item>Tamil</item>
+        <item>Kannada</item>
+        <item>Malyalam</item>
+        <item>Hindi</item>
+        <item>Marathi</item>
+        <item>Bengali</item>
+        <item>Gujarati</item>
+
+        <item>Indian English</item>
+        <item>British English</item>
+        <item>American English</item>
+        <item>French</item>
+        <item>French Canadian</item>
+        <item>German</item>
+        <item>Urdu</item>
+
+    </string-array>
+</resources>
